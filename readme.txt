@@ -11,11 +11,6 @@ This program runs on Python 3, which can be easily downloaded from the following
 	https://www.python.org/downloads/
 Installation of Pygame, Pymongo, and MongoDB is also necessary in order to run this program. 
 
--- Installing pip -- 
-The best way to install the following libraries is with pip
-The process is easily explained in the following link: 
-	https://pip.pypa.io/en/stable/installing/
-
 -- Installing Pygame -- 
 Tutorial: https://www.pygame.org/wiki/GettingStarted
 
